@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Glamor-Bold
+font link: https://dribbble.com/shots/1290571-Glamor-Chic-Modern-Free-Type-Family
+font author: Hendrick Rolandez
+font author site: http://www.moinzek.com/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Icons By Alfredo
+icon designer link: /AlfredoCreates
+        
+{"bg":"#F9F5EC","icon":"#B3A09D","font":"#B3A09D","slogan":"#c7b4b1"}
+      
