@@ -1,2 +1,2 @@
 # turbo-winner
-for hosting full-stack portfolio 
+Netlify deployment full-stack portfolio 
