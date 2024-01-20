@@ -8,7 +8,7 @@ The Restaurant Template is a simple yet elegant website built using HTML, CSS, a
 - **script.js**: This JavaScript file adds interactivity to the menu section. It employs a tabbed interface allowing users to switch between different categories like Pizza, Pasta, and Starters. The script ensures that the first tab is auto-selected upon page load.
 
  **Core Template Provided By**:  
-   -<a href="[Restaurant Template GitHub repository](https://github.com/Mayanwolfe/Restaurant_Template)">Mayanwolfe</a>
+   -<a href="https://github.com/Mayanwolfe/Restaurant_Template">Mayanwolfe</a>
   **ReadMe Written By**:
    - Readme written by: [graylan0](https://github.com/graylan0)
    
