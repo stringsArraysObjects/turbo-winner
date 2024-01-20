@@ -9,6 +9,6 @@ The Restaurant Template is a simple yet elegant website built using HTML, CSS, a
 
  **Core Template Provided By**:  
    -[Mayanwolfe](https://github.com/Mayanwolfe/Restaurant_Template")
-**ReadMe Written By**:
+<br>**ReadMe Written By**:</br>
   -[graylan0](https://github.com/graylan0)
    
