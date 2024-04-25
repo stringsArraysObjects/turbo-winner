@@ -28,8 +28,4 @@ function openMenu(event, menuName){
 
 document.getElementById('mainLink').click()
 
-window.addEventListener("load", removePlaceholderWave)
-function removePlaceholderWave(){
-  document.getElementById('preLoader').removeAttribute('placeholder-wave')
-    
-}
+

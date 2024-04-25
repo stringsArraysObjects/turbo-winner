@@ -27,9 +27,7 @@ body, h1,h2,h3,h4,h5,h6{
         display: none;
     }
 }
-.placeholder-wave{
-    display: hidden;
-}
+
 .bg-img{
     background-image: url('assets/vita-marija-pizza.jpg');
     background-size: cover;
