@@ -28,4 +28,7 @@ function openMenu(event, menuName){
 
 document.getElementById('mainLink').click()
 
+window.addEventListener("load", function() {
+    document.getElementById("loading-spinner").style.display = "none";
+  });
 
